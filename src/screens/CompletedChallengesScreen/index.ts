@@ -1,0 +1,1 @@
+export {CompletedChallengesScreen} from './CompletedChallengesScreen';
